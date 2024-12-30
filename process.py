@@ -29,9 +29,9 @@ raw_map = [
 # Metadata for each tile
 tile_metadata = {
     0: {"passable": False, "type": "empty"},
-    4: {"passable": True, "type": "bridge"},
+    4: {"passable": True, "type": "bridgeEnd"},
     5: {"passable": True, "type": "bridge"},
-    6: {"passable": True, "type": "bridge"},
+    6: {"passable": True, "type": "bridgeEnd"},
     8: {"passable": True, "type": "floor"},
     9: {"passable": True, "type": "floor"},
     10: {"passable": True, "type": "floor"},

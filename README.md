@@ -1,0 +1,1 @@
+This is a simple script to process maps for my game, Wreckfall.
